@@ -1,2 +1,3 @@
 # branchmodel
+featureA
 featureB
